@@ -1,2 +1,2 @@
 # maskInput_vanillaJS_fixedBug
-Masked mobile number input with just VanillaJS and the fixed cursor bug 
+Masked mobile number input with just VanillaJS and the fixed cursor bug and test scenario
